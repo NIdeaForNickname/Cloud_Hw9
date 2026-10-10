@@ -1,4 +1,4 @@
-<img width="2284" height="1028" alt="image" src="https://github.com/user-attachments/assets/8e9b8300-2dc4-420d-9796-81f7374cb8f8" />1) Создайте базу данных CosmosDB. Создайте контейнер Задача.
+1) Создайте базу данных CosmosDB. Создайте контейнер Задача.
 - Идентификатор
 - Заголовок
 - Описание
